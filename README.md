@@ -1,2 +1,2 @@
 # sis-login-php
-Sistema de Login com PHP e MySQL
+Sistema simples de Login com PHP, MySQL e Tailwind
