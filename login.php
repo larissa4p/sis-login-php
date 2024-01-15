@@ -2,7 +2,7 @@
 session_start();
 
 if (empty($_POST) or (empty($_POST["usuario"])) or (empty($_POST["senha"]))){
-    print "<script>location.href='index.php';</script>"
+    print "<script>location.href='index.php';</script>";
 }
 
 include('config.php');
